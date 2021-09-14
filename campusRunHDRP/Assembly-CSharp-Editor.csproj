@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{12b7e8dc-8cb8-9d84-8582-ba930a5cac41}</ProjectGuid>
+    <ProjectGuid>{6ef883ce-a04e-bb15-13a9-654f1356f406}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -233,10 +233,10 @@
         <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -593,72 +593,72 @@
         <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualEffectGraph.Runtime">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualEffectGraph.Editor">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.HighDefinition.Editor">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Editor.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/campusRun_hdrp/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>C:/Users/dlstp/OneDrive/Desktop/LikeLion_9th/[Capstone]_campus_run/campusRunHDRP/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{3e2fe9a6-1b5d-7ec2-1f01-50d9d026ab57}</Project>
+      <Project>{b3fa2a56-3aee-a8b7-8f5d-9826c9aaf550}</Project>
       <Name>Assembly-CSharp</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
